@@ -1,0 +1,6 @@
+@MotiveGiftsApi_HostAddress = http://localhost:5082
+
+GET {{MotiveGiftsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
